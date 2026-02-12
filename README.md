@@ -1,4 +1,4 @@
-# Real Estate Market Forecasting using Deep Neural Networks 🚀
+# Real Estate Market Forecasting using Deep Neural Networks 
 
 ## 📖 Project Overview
 This project implements a predictive pipeline to forecast rental price trends using **Deep Learning**. By comparing **RNN** and **LSTM** architectures, the model identifies long-term patterns in the real estate market to provide reliable 24 and 48-month projections.
